@@ -1,8 +1,8 @@
-# Triple-Rider Detection
+# RideSecure
 
 ## Project Overview
 
-Triple-Rider Detection is a computer vision project that detects motorcycles with more than two riders and checks for helmet compliance. Additionally, it identifies if the motorcycle is being used on a mobile device. This project utilizes YOLOv8, trained on a custom dataset of over 6,000 images, to achieve high-performance detection.
+RideSecure is a computer vision project that detects motorcycles with more than two riders and checks for helmet compliance. Additionally, it identifies if the motorcycle is being used on a mobile device. This project utilizes YOLOv8, trained on a custom dataset of over 6,000 images, to achieve high-performance detection.
 
 ## Table of Contents
 
